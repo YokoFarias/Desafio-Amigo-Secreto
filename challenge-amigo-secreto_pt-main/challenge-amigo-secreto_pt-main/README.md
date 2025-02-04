@@ -17,7 +17,7 @@ JavaScript
 
 🚀 Como Rodar o Projeto
 1️⃣ Baixe os arquivos ou clone este repositório:
-git clone 
+git clone https://github.com/YokoFarias/Desafio-Amigo-Secreto.git
 2️⃣ Abra o arquivo index.html no navegador.
 3️⃣ Digite nomes e clique em "Adicionar".
 4️⃣ Clique no botão "Sortear Amigo" para ver o resultado! 🎁
